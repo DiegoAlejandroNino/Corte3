@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+cont
+1
+0
+6
+dinero
+1
+0
+9
+1
+15
+dinero < 200000
+4
+1
+31
+'Indique el valor del producto'
+5
+1
+1
+v
+6
+2
+4
+cont
+6
+cont+1
+6
+dinero
+8
+dinero+v
+11
+7
+0
+1
+7
+cont>=5
+4
+1
+33
+'El total a pagar es de $',dinero
+13
+6
+2
+3
+dto
+5
+v*0.2
+1
+t
+10
+dinero-dto
+4
+1
+29
+'El valor a pagar es de $', t
+13
+1

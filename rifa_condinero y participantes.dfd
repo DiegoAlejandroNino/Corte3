@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+g1
+1
+4
+2
+g2
+1
+9
+6
+dinero
+1
+0
+6
+2
+7
+partici
+1
+0
+3
+gan
+1
+0
+9
+1
+7
+gan < 2
+4
+1
+45
+'Indique su número y haga su aporte de $1000'
+5
+1
+3
+n,a
+7
+0
+1
+12
+n=g1 or n=g2
+4
+1
+18
+'Sigue intentando'
+13
+4
+1
+40
+'Felicidades, ganaste con el número ',n 
+6
+1
+3
+gan
+5
+gan+1
+13
+6
+2
+6
+dinero
+8
+dinero+a
+7
+partici
+9
+partici+1
+11
+1
